@@ -8,9 +8,15 @@ chenxin add04
 chenxin add000
 chenxin add222
 chenxin add4444
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 chenxin 05 add444
 =======
 chenxin  add 5555
 chenxin add66666
 >>>>>>> chenxin04
+=======
+chenxin 05 add444
+
+chenxin 0.0.0
+>>>>>>> Stashed changes
